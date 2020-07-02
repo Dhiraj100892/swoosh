@@ -1,0 +1,8 @@
+ipython
+SoundFile
+notebook
+opencv-python
+matplotlib
+skimage
+numpy
+imageio
