@@ -1,7 +1,7 @@
 # [Sound With Action](http://www.roboticsproceedings.org/rss16/p002.pdf)
 ![example](./img/dataset.gif)
 
-Project Website: https://dhiraj100892.github.io/sound_with_action/
+Project Website: https://dhiraj100892.github.io/swoosh/
 ## System Dependanaices
 - ffmpeg
 ```buildoutcfg
